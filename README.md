@@ -72,13 +72,16 @@ MediBookNew/
 
 Update the database connection settings according to your local MySQL configuration before running the application. Do not publish database passwords or private credentials.
 
-## Screenshots
+## Application Screenshots
 
-Application screenshots will be added here.
+### Patient Dashboard
+![Patient Dashboard](PatientDashboard.png)
 
-- Patient Dashboard
-- Doctor Dashboard
-- Admin Dashboard
+### Doctor Dashboard
+![Doctor Dashboard](DoctorDashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](AdminDashboard.png)
 
 ## How to Run the Project
 
